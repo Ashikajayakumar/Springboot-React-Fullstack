@@ -1,4 +1,3 @@
-Absolutely. Since you want to **keep everything exactly as it is**, I'll only add **GitHub-friendly symbols/emojis, headings, and visual markers** without removing your explanations or content.
 
 # 🌱 1. What is Spring?
 
@@ -419,30 +418,4 @@ For a beginner interview, this is enough.
                      🫘 Beans
 ```
 
----
 
-## 📌 Quick Revision
-
-```text
-🌱 Spring
-   ↓
-Java Framework
-   ↓
-🔄 IoC
-   ↓
-Spring manages objects
-   ↓
-📦 Spring Container
-   ↓
-🫘 Beans
-   ↓
-💉 Dependency Injection
-   ↓
-Spring provides dependencies
-```
-
-### ⭐ Remember these 4 words first
-
-**Spring → IoC → DI → Bean**
-
-These are the foundation concepts you should understand before moving to **Spring Boot**.
